@@ -2,6 +2,10 @@
 
 Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contexto, as perguntas de negócio foram criadas apenas para o desenvolvimento do projeto, e se baseiam em um projeto do site https://sejaumdatascientist.com/.
 
+<p align="center">
+  <img width="1000" height="400" src="https://www.callcentrehelper.com/images/stories/2020/05/penny-jar-760.jpg"/>
+</p>
+
 ## Contexto de negócio
 
 A TopBank é uma grande empresa de serviços bancários. Ela atua principalmente nos países da Europa oferecendo produtos financeiros, desde contas bancárias até investimentos, passando por alguns tipos de seguros e produto de investimento.
@@ -68,3 +72,12 @@ Cada linha representa um cliente e cada coluna contém alguns atributos que desc
 
 - Exited: Indica se o cliente está ou não em Churn.
 
+## Planejamento da solução
+
+## Melhores Insights
+
+## Machine Learning Models
+
+## Resultados
+
+## Conclusão 
