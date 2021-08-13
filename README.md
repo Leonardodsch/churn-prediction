@@ -98,17 +98,25 @@ Cada linha representa um cliente e cada coluna contém alguns atributos que desc
 
  - **Pesosas que possuem cartão de crédito e são ativas entram mais em churn**
  
- ![image](https://user-images.githubusercontent.com/76128123/125992392-95ebfdd6-4ebc-492f-972c-2778e1ad0b7c.png)
-
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/125992392-95ebfdd6-4ebc-492f-972c-2778e1ad0b7c.png"/>
+</p>
+ 
 
  - **Mulheres entram 27% a mais em churn do que homens**
  
-![image](https://user-images.githubusercontent.com/76128123/125992466-36c62ff3-13f2-4c61-8402-0ff44b9c1f9a.png)
+ <p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/125992466-36c62ff3-13f2-4c61-8402-0ff44b9c1f9a.png"/>
+</p>
+ 
 
 
  - **Pessoas com salário maior do que a média entram mais em churn**
  
- ![image](https://user-images.githubusercontent.com/76128123/125992592-7106905c-9cb0-4f84-b055-453c08a4aad4.png)
+ <p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/125992592-7106905c-9cb0-4f84-b055-453c08a4aad4.png"/>
+</p>
+ 
 
 
 ## Machine Learning Models
@@ -133,11 +141,15 @@ Através da interpretação do erro do modelo de machine learning e guiado pelas
 
  A taxa atual de churn do TopBank é de 20.4%
  
- ![image](https://user-images.githubusercontent.com/76128123/125993866-a311599c-2949-4d42-826e-87f57a3bb19a.png)
+ <p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/125993866-a311599c-2949-4d42-826e-87f57a3bb19a.png"/>
+</p>
+ 
 
   **2. Qual a Performance do modelo em classificar os clientes como churns?**
   
-  ![image](https://user-images.githubusercontent.com/76128123/125993988-162698d8-55b9-4cba-9c31-86440635f2fe.png)
+  https://user-images.githubusercontent.com/76128123/125993988-162698d8-55b9-4cba-9c31-86440635f2fe.png
+  
 
   O modelo possuou uma acurácia de 76%, conseguindo identificar os clientes que de fato entraram em churn em 67% dos casos (métrica Recall).
   
