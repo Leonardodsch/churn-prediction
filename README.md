@@ -148,10 +148,12 @@ Através da interpretação do erro do modelo de machine learning e guiado pelas
 
   **2. Qual a Performance do modelo em classificar os clientes como churns?**
   
-  https://user-images.githubusercontent.com/76128123/125993988-162698d8-55b9-4cba-9c31-86440635f2fe.png
+  
+![image](https://user-images.githubusercontent.com/76128123/125993988-162698d8-55b9-4cba-9c31-86440635f2fe.png)
   
 
   O modelo possuou uma acurácia de 76%, conseguindo identificar os clientes que de fato entraram em churn em 67% dos casos (métrica Recall).
+  
   
   **3. Qual o retorno esperado, em termos de faturamento, se a empresa utilizar seu modelo para evitar o churn dos clientes?**
   
