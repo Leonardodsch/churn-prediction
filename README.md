@@ -20,13 +20,13 @@ Por exemplo, se o salário mensal de um cliente é de R$1.000,00 e a média de t
 
 Nos últimos meses, o time de Analytics percebeu que a taxa de clientes cancelando suas contas e deixando o banco, atingiu números inéditos na empresa. Preocupados com o aumento dessa taxa, o time planejou um plano de ação para diminuir taxa de evasão de clientes.
 
-Preocupados com a queda dessa métrica, o time de Analytics da TopBottom, contratou você como consultor de Data Science para criar um plano de ação, com o objetivo de reduzir a evasão de clientes, ou seja, impedir que o cliente cancele seu contrato e não o renove por mais 12 meses. Essa evasão, nas métricas de negócio, é conhecida como Churn.
+Preocupados com a queda dessa métrica, o time de Analytics da TopBank, contratou você como consultor de Data Science para criar um plano de ação, com o objetivo de reduzir a evasão de clientes, ou seja, impedir que o cliente cancele seu contrato e não o renove por mais 12 meses. Essa evasão, nas métricas de negócio, é conhecida como Churn.
 
 ## O Desafio
 
 Como um Consultor de Ciência de Dados, você precisa criar um plano de ação para diminuir o número de clientes em churn e mostrar o retorno financeiro da sua solução.
 
-Ao final da sua consultoria, você precisa entregar ao CEO da TopBottom um modelo em produção, que receberá uma base de clientes via API e retornará essa mesma base “scorada”, ou seja, um coluna à mais com a probabilidade de cada cliente entrar em churn.
+Ao final da sua consultoria, você precisa entregar ao CEO da TopBank um modelo em produção, que receberá uma base de clientes via API e retornará essa mesma base “scorada”, ou seja, um coluna à mais com a probabilidade de cada cliente entrar em churn.
 
 Além disso, você precisará fornecer um relatório reportando a performance do seu modelo e o impacto financeiro da sua solução. Questões que o CEO e o time de Analytics gostariam de ver em seu relatório:
 
@@ -40,7 +40,7 @@ Para quais clientes você daria o incentivo financeiro e qual seria esse valor, 
 
 ## Dados
 
-O conjunto de dados que será utilizado para criar a solução para a TopBottom, está disponível na plataforma do Kaggle. Esse é o link: https://www.kaggle.com/mervetorkan/churndataset
+O conjunto de dados que será utilizado para criar a solução para a TopBank, está disponível na plataforma do Kaggle. Esse é o link: https://www.kaggle.com/mervetorkan/churndataset
 
 Cada linha representa um cliente e cada coluna contém alguns atributos que descrevem esse cliente. O conjunto de dados inclui informações sobre:
 
@@ -185,3 +185,7 @@ Através da interpretação do erro do modelo de machine learning e guiado pelas
 Supondo que fosse possível evitar que todos os clientes que receberam o incentivo entrassem em churn, e então consequentemente renovassem seus contratos, seria possível obter um retorno finaceiro de **$ 938.235,39**, a partir de um investimento de $9.800 que foi o budget máximo definido. 
 
 ## Conclusão 
+
+Após todo o estudo, análise e testes com diferentes modelos de machine learning foi possível responder as perguntas do CEO e entregar uma solução que pode ser utilizada como uma plano de ação para tentar evitar que os clientes entrem em churn. Com os restultados do modelos e também com os insights gerados pelos dados é possível otimizar a tomada de decisão do time de negócio fazendo com que cada decisão seja mais acertiva e tenha uma probabilidade de retorno maior. O algoritmo pode ser aperfeiçoado com análises mais profundas ou até mesmo com uma possível coleta de mais dados que ajudariam a modelar e entender ainda mais o problema, com a possibilidade de geração de novas hipóteses de negócio que poderiam se tornar novos insights acionáveis.
+
+De uma forma geral os resultados obtidos e o projeto como um todo poderiam ser utilizados de diversas maneiras para agregar valor para a empresa, tendo em vista que o custo para menter o cliente é menor do que o de conquistar um cliente novo, poder prever com uma boa acertividade quais clientes entrariam em churn e assim tomar alguma medida que pudesse evitar isso se mostra uma estratégia muito inteligente em tempos onde a competição nos mais variados setores cresce quase que de forma exponecial, e empresas que não perceberem a importância dos dados ficarão obsoletas rapidamente. 
